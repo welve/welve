@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,py,vscode,ros" />
   </a>
 </p>
-<h3 align="left">✒️ History :  ✒️</h3>
+<h3 align="left">✒️ History ✒️</h3>
 <!--
 **welve/welve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
