@@ -8,11 +8,6 @@
 * **_프로젝트 3_**
 
 <h3 align="left">📚 Languages and Tools :  📚</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp;
-</p>
 
 <h4 align="left">Backend</h4>
 
@@ -28,7 +23,12 @@
 
 * **Bachelor's degree**: Electrical Engineering
 * **Master's degree**: Computer and Information Science
-
+  
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp;
+</p>
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
