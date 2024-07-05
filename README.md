@@ -3,11 +3,9 @@
 
 <h3 align="left">⚡ Project ⚡</h3>
 
-<ul>
-  <li style="font-family: Arial, sans-serif;">프로젝트 1</li>
-  <li style="font-family: 'Courier New', Courier, monospace;">프로젝트 2</li>
-  <li style="font-family: 'Times New Roman', Times, serif;">프로젝트 3</li>
-</ul>
+* **프로젝트 1**
+* _프로젝트 2_
+* **_프로젝트 3_**
 
 <h3 align="left">📚 Languages and Tools :  📚</h3>
 <p align="left">
@@ -26,10 +24,8 @@
 
 <h3 align="left">✒️ History ✒️</h3>
 
-<ul>
-  <li style="font-family: Arial, sans-serif;">Bachelor's degree: Electrical Engineering</li>
-  <li style="font-family: 'Courier New', Courier, monospace;">Master's degree: Computer and Information Science</li>
-</ul>
+* **Bachelor's degree**: Electrical Engineering
+* **Master's degree**: Computer and Information Science
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
