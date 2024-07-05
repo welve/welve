@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=AI%20researcher&fontSize=90" />
-<h3 align="left">⚡ Project :  ⚡</h3>
+<h3 align="left">⚡ Project ⚡</h3>
 <h3 align="left">📚 Languages and Tools :  📚</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
