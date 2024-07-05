@@ -14,8 +14,9 @@ Markup : * <h3 align="left"> Backend </h3>
   </a>
 </p>
 <h3 align="left">✒️ History ✒️</h3>
-<h3 align="left"> Bachelor's degree : Electrical Engineering </h3>
-<h3 align="left"> Master's degree : Computer and Information Science </h3>
+
+* Bachelor's degree : Electrical Engineering
+* Master's degree : Computer and Information Science
 <!--
 **welve/welve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
