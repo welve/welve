@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp;
 </p>
 
-### Backend
+<h4 align="left">Backend</h4>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-### Tools
+<h4 align="left">Tools</h4>
 
 <h3 align="left">✒️ History ✒️</h3>
 
@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
