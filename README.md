@@ -3,9 +3,11 @@
 
 <h3 align="left">⚡ Project ⚡</h3>
 
-* **프로젝트 1**
-* _프로젝트 2_
-* **_프로젝트 3_**
+<ul>
+  <li><b>프로젝트 1</b></li>
+  <li><i>프로젝트 2</i></li>
+  <li><b><i>프로젝트 3</i></b></li>
+</ul>
 
 <h3 align="left">📚 Languages and Tools :  📚</h3>
 <p align="left">
@@ -24,8 +26,10 @@
 
 <h3 align="left">✒️ History ✒️</h3>
 
-* **Bachelor's degree**: Electrical Engineering
-* **Master's degree**: Computer and Information Science
+<ul>
+  <li><b>Bachelor's degree</b>: Electrical Engineering</li>
+  <li><b>Master's degree</b>: Computer and Information Science</li>
+</ul>
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
