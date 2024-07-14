@@ -18,6 +18,11 @@
 </p>
 
 <h4 align="left">Tools</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,vscode,ros" />
+  </a>
+</p>
 
 <h3 align="left">✒️ History ✒️</h3>
 
