@@ -29,7 +29,7 @@
 * **Bachelor's degree : Electrical Engineering**
 * **Master's degree : Computer and Information Science**
      ###### -*KIEE Summer Conference 2022 (53th) : Development of Test Platform to Compare the Performance of Path Planning Algorithms for Indoor-Outdoor Autonomous Mobile Robot<br/><br/>-ISIPS International Conference 2023 (17th) : Optimum driving algorithm to correspond with various outdoor environment<br/><br/> -Thesis 2024 : Kinematic modeling of 4-Wheel Independent Steering mobile robot and study of self- driving performance depending on driving modes<br/>* 
-    
+* **Doctoral degree : Computer and Information Science**
 
   
 <p align="left">
