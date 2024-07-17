@@ -28,6 +28,7 @@
 
 * **Bachelor's degree**: Electrical Engineering
 * **Master's degree**: Computer and Information Science
+  
  -KIEE Summer Conference 2022 :  Development of Test Platform to Compare the Performance of Path Planning Algorithms for Indoor-Outdoor Autonomous Mobile Robot
   
 <p align="left">
