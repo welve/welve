@@ -7,7 +7,7 @@
 * _프로젝트 2_
 * **_프로젝트 3_**
 
-<h3 align="left">📚 Languages and Tools :  📚</h3>
+<h3 align="left">📚 Languages and Tools 📚</h3>
 
 <h4 align="left">Backend</h4>
 
