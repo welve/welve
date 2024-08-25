@@ -20,7 +20,7 @@
 <h4 align="left">Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,opencv,vscode" />
+    <img src="https://skillicons.dev/icons?i=ros,opencv,vscode,ubuntu" />
   </a>
 </p>
 
