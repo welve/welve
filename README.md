@@ -29,7 +29,9 @@
 * **Bachelor's degree : Electrical Engineering**
   
 * **Master's degree : Computer and Information Science**
-     ###### -*KIEE Domestic Conference 2022 (53th) : Development of Test Platform to Compare the Performance of Path Planning Algorithms for Indoor-Outdoor Autonomous Mobile Robot<br/><br/>-ISIPS International Conference 2023 (17th) : Optimum driving algorithm to correspond with various outdoor environment<br/><br/> -Thesis 2024 : Kinematic modeling of 4-Wheel Independent Steering mobile robot and study of self- driving performance depending on driving modes<br/>* 
+     ###### -*KIEE Domestic Conference 2022 (53th) : Development of Test Platform to Compare the Performance of Path Planning Algorithms for Indoor-Outdoor Autonomous Mobile Robot<br/><br/>-ISIPS International Conference 2023 (17th) : Optimum driving algorithm to correspond with various outdoor environment<br/><br/> -Thesis 2024 : Kinematic modeling of 4-Wheel Independent Steering mobile robot and study of self- driving performance depending on driving modes<br/>*
+* [**Master's Degree Projects**](https://github.com/welve/Master_s_degree.git)
+* 
 * **Doctoral degree :**
      ###### -*KICS Domestic Conference 2024 : A Study on the Optimal Loading Algorithm of the Local Logistics Center Based on Reinforcement Learning systems*
      ###### -*IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm*
