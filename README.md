@@ -34,7 +34,18 @@
 * **Doctoral degree :**
      ###### -*KICS Domestic Conference 2024 : A Study on the Optimal Loading Algorithm of the Local Logistics Center Based on Reinforcement Learning systems*
      ###### -*IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm*
-  
+     ###### -*MDPI Sensors Journal 2025 : Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments*
+
+  ## **Doctoral Degree : Computer and Information Science**
+
+#### - **KICS Domestic Conference 2024**  
+   *A Study on the Optimal Loading Algorithm of the Local Logistics Center Based on Reinforcement Learning systems*
+
+#### - **IEEE/IEIE ICCE-Asia International Conference 2024 (9th)**  
+   *Human trajectory prediction algorithm*
+
+#### - **MDPI Sensors Journal 2025**  
+   *Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments*
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
