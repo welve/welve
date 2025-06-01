@@ -2,7 +2,7 @@
 
 <h3 align="left">⚡ Project ⚡</h3>
 
-* **프로젝트 1**
+* **4 Wheel Independent Steering(4WIS) mobile robot**
 * _프로젝트 2_
 * **_프로젝트 3_**
 
