@@ -32,7 +32,6 @@
   👉 [**Master's Degree Projects**](https://github.com/welve/Master_s_degree.git)
   
 * **Doctoral degree :**
-     ###### -*KICS Domestic Conference 2024 : A Study on the Optimal Loading Algorithm of the Local Logistics Center Based on Reinforcement Learning systems*
      ###### -*IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm*
      ###### -*MDPI Sensors Journal 2025 : Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments (IF:3.4)*
      ###### -*MDPI Electronics Journal 2025 : Efficient Graph-Based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots (IF:2.6)*
