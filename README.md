@@ -35,7 +35,7 @@
      ###### -*IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm*
      ###### -*MDPI Sensors Journal 2025 : Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments (IF:3.4)*
      ###### -*MDPI Electronics Journal 2025 : Efficient Graph-Based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots (IF:2.6)*
-     ###### -*Joint symposium <br> on the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the 14th IFAC Symposium on Robotics (ROBOTICS 2025)*
+     ###### -*Joint symposium : <br> on the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the 14th IFAC Symposium on Robotics (ROBOTICS 2025)*
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
