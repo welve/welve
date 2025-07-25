@@ -3,6 +3,7 @@
 <h3 align="left">⚡ Project ⚡</h3>
 
 * **4 Wheel Independent Steering(4WIS) mobile robot**
+* **4 Wheel Independent Steering(4WIS) mobile robot for indoor environments**
 * **Deep Reinforcement learning on Local Logistics System**
 * **_프로젝트 3_**
 
