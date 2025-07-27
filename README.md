@@ -4,7 +4,7 @@
 
 * **4 Wheel Independent Steering(4WIS) mobile robot**
 * **4 Wheel Independent Steering(4WIS) mobile robot for indoor environments**
-* **Deep Reinforcement learning on Local Logistics System**
+* **Deep Reinforcement Learning on Local Logistics System**
 * **_프로젝트 3_**
 
 <h3 align="left">📚 Languages and Tools 📚</h3>
