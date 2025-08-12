@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp;
 </p>
 <!--
