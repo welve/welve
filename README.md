@@ -13,14 +13,14 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,ros,opencv,anaconda" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,ros,opencv,pytorch" />
   </a>
 </p>
 
 <h4 align="left">Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ubuntu,github,notion" />
+    <img src="https://skillicons.dev/icons?i=vscode,ubuntu,github,notion,docker" />
   </a>
 </p>
 
