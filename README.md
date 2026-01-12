@@ -2,10 +2,10 @@
 
 <h3 align="left">⚡ Project ⚡</h3>
 
-* **4 Wheel Independent Steering(4WIS) mobile robot**
-* **4 Wheel Independent Steering(4WIS) mobile robot for indoor environments**
-* **Deep Reinforcement Learning on Local Logistics System**
-* **_프로젝트 3_**
+* **4 Wheel Independent Steering(4WIS) mobile robot (ROS2)**
+* **4 Wheel Independent Steering(4WIS) mobile robot for indoor environments (ROS2)**
+* **Deep Reinforcement Learning on Local Logistics System (D3QN)**
+* **Multi-Agent Reinforcement Learning for Campus Delivery System (MAPPO)**
 
 <h3 align="left">📚 Languages and Tools 📚</h3>
 
