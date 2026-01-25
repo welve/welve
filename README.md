@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=AI%20researcher&fontSize=90" />
 
-<h3 align="left">⚡ Project ⚡</h3>
+<h3 align="left">⚡ Research Project ⚡</h3>
 
 * **4 Wheel Independent Steering(4WIS) mobile robot (ROS2, Python)**
 * **4 Wheel Independent Steering(4WIS) mobile robot for indoor environments (ROS2, C++)**
