@@ -7,6 +7,8 @@
 * **Deep Reinforcement Learning on Local Logistics System (D3QN-RL, Gymnasium)**
 * **Multi-Agent Reinforcement Learning for Campus Delivery System (MAPPO-RL, VMAS)**
 
+<h3 align="left">⚡ IsaacLab Project ⚡</h3>
+
 <h3 align="left">📚 Languages and Tools 📚</h3>
 
 <h4 align="left">Backend</h4>
