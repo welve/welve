@@ -38,7 +38,7 @@
      ###### -*IEEE/IEIE International Conference on Consumer Electronics-Asia (ICCE-Asia 2024) :<br> &nbsp; Human trajectory prediction algorithm*
      ###### -*MDPI Sensors Journal 2025 :<br> &nbsp; Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments (IF:3.4)*
      ###### -*MDPI Electronics Journal 2025 :<br> &nbsp; Efficient Graph-Based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots (IF:2.6)*
-     ###### -*Joint Symposium of the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the 14th IFAC Symposium on Robotics (ROBOTICS 2025) : <br> &nbsp;Integrated-Kinematic Modeling and Autonomous Navigation Performance Analysis of Four-Wheel Independent Steering Mobile Robot*
+     ###### -*Joint Symposium, 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the 14th IFAC Symposium on Robotics (ROBOTICS 2025) : <br> &nbsp;Integrated-Kinematic Modeling and Autonomous Navigation Performance Analysis of Four-Wheel Independent Steering Mobile Robot*
      ###### -*IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2026) :<br> &nbsp; Effect of Wheel Radius on Stair-Climbing Performance of a T-Spoke Wheeled Robot: A Reinforcement Learning-Based Parametric Study*
      ###### -*IEEE International Conference on Ubiquitous Robots (UR 2026) :<br> &nbsp; T-Spoke Wheel Design and Reinforcement Learning-Based Locomotion for Stair-Climbing Mobile Robots*
 <br>
