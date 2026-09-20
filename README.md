@@ -5,7 +5,7 @@
 * **4 Wheel Independent Steering(4WIS) mobile robot (ROS2, Python)**
 * **4 Wheel Independent Steering(4WIS) mobile robot for indoor environments (ROS2, C++)**
 * **Deep Reinforcement Learning on Local Logistics System (D3QN-RL, Gymnasium)**
-* **Multi-Agent Reinforcement Learning for Campus Delivery System (MAPPO-RL, VMAS)**
+* **Multi-Agent Reinforcement Learning for Campus Delivery System (MAPPO-MARL, VMAS)**
 
 <h3 align="left">⚡ IsaacLab Project ⚡</h3>
 
